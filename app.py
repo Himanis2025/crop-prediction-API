@@ -5,7 +5,7 @@ import pickle
 import numpy as np
 
 # unpickling the model of Random forest
-model = pickle.load(open('../API/recommendation-models/RF.pkl', 'rb'))
+model = pickle.load(open('./recommendation-models/RF.pkl', 'rb'))
 
 
 # creating the object of the flask
