@@ -2,6 +2,5 @@ gunicorn
 numpy
 flask
 scikit-learn
-sklearn
 pandas
 seaborn
